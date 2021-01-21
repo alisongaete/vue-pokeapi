@@ -1,16 +1,17 @@
 # vue-pokeapi
+Ejemplo Basico sobre consumo de API con VueJs
 
-## Project setup
+## Instalar dependencias
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar y ejecutar el proyecto
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar para producción
 ```
 npm run build
 ```
